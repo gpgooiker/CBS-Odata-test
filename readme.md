@@ -65,3 +65,4 @@ python --version
 
 ## Documentation of the CBS Odata library
 https://pypi.org/project/cbsodata/
+https://sbi-api.cbs.nl/swagger/index.html
